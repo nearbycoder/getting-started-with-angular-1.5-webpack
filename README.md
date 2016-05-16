@@ -4,7 +4,7 @@ This is a starter kit to get you working with es6 classes and modules within Ang
 
 ##Basic Setup
 
-1. run `git clone https://github.com/nearbycoder/boilerplate-es6-angular-webpack.git`
+1. run `git clone https://github.com/nearbycoder/getting-started-with-angular-1.5-webpack`
 2. run `npm install` within the directory the repo is located
 3. run 'npm start' this will start webpack-dev-server on port 8080
 4. From there the root of the app is `/src/app/app.js`
