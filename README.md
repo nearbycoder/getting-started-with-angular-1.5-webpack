@@ -1,4 +1,4 @@
-# Boilerplate Es6 Angular Webpack
+# Getting Started With ES6 Angular 1.5 and Webpack
 
 This is a starter kit to get you working with es6 classes and modules within Angular using Webpack.
 
